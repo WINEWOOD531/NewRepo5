@@ -9,7 +9,7 @@ namespace Search
     {
         static void Main(string[] args)
         {
-            //string catalog = @"C:\Users\Игорь\Desktop\Тест";
+            //string catalog = @"C:\Users\User1\Desktop\Тест";
             WriteLine("Введите путь к каталогу в котором нужно найти файл:\n");
             string catalog = ReadLine();
 
